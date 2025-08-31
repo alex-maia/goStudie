@@ -24,3 +24,5 @@ fi
 
 # Attach automático
 tmux attach-session -t $SESSION
+
+# ( I use vim (BTW) 0_0 )
